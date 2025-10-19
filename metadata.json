@@ -1,0 +1,5 @@
+{
+  "name": "Image Clarity Enhancer",
+  "description": "An AI-powered tool to upscale images, remove noise and blur, and enhance details for a clearer, high-resolution result. Features a before-and-after comparison slider and an option to preserve facial details.",
+  "requestFramePermissions": []
+}
